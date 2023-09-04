@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetGeoJourney</string>
+    <string name="fab_description">Записать координат маршрута</string>
+</resources>
